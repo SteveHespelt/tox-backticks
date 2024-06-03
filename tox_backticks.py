@@ -1,5 +1,5 @@
 import re
-from distutils.version import LooseVersion
+from looseversion import LooseVersion
 
 import pluggy
 import tox
